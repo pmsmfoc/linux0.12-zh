@@ -1,0 +1,8 @@
+{
+    "clangd.fallbackFlags": [
+    "-I${workspaceFolder}/include",
+    "-I${workspaceFolder}/ams",
+    "-I${workspaceFolder}/linux",
+    "-I${workspaceFolder}/sys"
+    ]
+}
